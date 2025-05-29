@@ -1,0 +1,21 @@
+<script>start("/Users/astowner/technical-task/Assignment-Portal/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,416,"416 B",1748510590,"29/05/2025, 12:23:10");</script>
+<script>addRow(".next",".next",1,352,"352 B",1748510411,"29/05/2025, 12:20:11");</script>
+<script>addRow("node_modules","node_modules",1,16416,"16.0 kB",1748507162,"29/05/2025, 11:26:02");</script>
+<script>addRow("public","public",1,96,"96 B",1748495818,"29/05/2025, 08:16:58");</script>
+<script>addRow("src","src",1,288,"288 B",1748505699,"29/05/2025, 11:01:39");</script>
+<script>addRow(".env",".env",0,62,"62 B",1748496514,"29/05/2025, 08:28:34");</script>
+<script>addRow(".env.development",".env.development",0,46,"46 B",1748507334,"29/05/2025, 11:28:54");</script>
+<script>addRow(".env.production",".env.production",0,69,"69 B",1748508653,"29/05/2025, 11:50:53");</script>
+<script>addRow(".gitignore",".gitignore",0,480,"480 B",1748359977,"27/05/2025, 18:32:57");</script>
+<script>addRow("db.json","db.json",0,585,"585 B",1748508897,"29/05/2025, 11:54:57");</script>
+<script>addRow("eslint.config.mjs","eslint.config.mjs",0,393,"393 B",1748359977,"27/05/2025, 18:32:57");</script>
+<script>addRow("jest.config.ts","jest.config.ts",0,249,"249 B",1748508400,"29/05/2025, 11:46:40");</script>
+<script>addRow("next-env.d.ts","next-env.d.ts",0,211,"211 B",1748359977,"27/05/2025, 18:32:57");</script>
+<script>addRow("next.config.ts","next.config.ts",0,133,"133 B",1748359977,"27/05/2025, 18:32:57");</script>
+<script>addRow("package-lock.json","package-lock.json",0,416736,"407 kB",1748507162,"29/05/2025, 11:26:02");</script>
+<script>addRow("package.json","package.json",0,1271,"1.2 kB",1748508493,"29/05/2025, 11:48:13");</script>
+<script>addRow("postcss.config.mjs","postcss.config.mjs",0,81,"81 B",1748359977,"27/05/2025, 18:32:57");</script>
+<script>addRow("README.md","README.md",0,1116,"1.1 kB",1748510322,"29/05/2025, 12:18:42");</script>
+<script>addRow("tsconfig.json","tsconfig.json",0,602,"602 B",1748359977,"27/05/2025, 18:32:57");</script>
